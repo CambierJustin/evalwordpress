@@ -1,0 +1,73 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  color: #333;
+  font-family: 'Dosis', sans-serif;
+}
+
+.header {
+    background: #0d7619;
+}
+
+.section1 {
+background-image: url(../images/banniere.jpg);
+    background-size: cover;
+    text-align: center;
+    height: 250px;
+    }
+
+.section1 input {
+    background-color: #395e1b;
+}
+
+.textevert {
+    color: #9acf64;
+}
+
+.section2 {
+text-align: center;
+}
+
+
+.section3 #programme {
+    text-align: center;
+}
+.section3 #titre {
+    text-transform: uppercase;
+    color: #9acf64;
+    font-weight: bold;
+}
+
+.section3 #colonnes {
+    display: flex;
+    padding-bottom: 30px;
+}
+
+.section3 #vegetaux {
+    width: 50%;
+}
+
+.section3 #activites {
+    width: 50%;
+}
+
+.section4 {
+background: yellow;
+}
+
+.section5 {
+
+}
+
+.section6 {
+
+}
+
+.section7 {
+
+}
+
+
+
